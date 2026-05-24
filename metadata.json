@@ -1,0 +1,6 @@
+{
+  "name": "Salary & Overtime Calculator",
+  "description": "Attendance processing and salary calculation system based on custom company rules with PDF parsing and Google Sheets export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
